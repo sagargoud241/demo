@@ -6,6 +6,8 @@ function Navbar() {
       <Link to="/" className="hover:text-pink-400">Home</Link>
       <Link to="/about" className="hover:text-pink-400">About</Link>
       <Link to="/contact" className="hover:text-pink-400">Contact</Link>
+      <Link to="/login" className="hover:text-pink-400">Login</Link>
+      <Link to="/signup" className="hover:text-pink-400">Signup</Link>
     </nav>
   );
 }
